@@ -5,14 +5,14 @@ const bulbasaur = new Pokemon("bulbasaur")
 const squirtle = new Pokemon("squirtle")
 const charmander = new Pokemon("charmander")
 
-pikachu.sayHello()
+pikachu.sayhello()
 pikachu.sayMessage("Heey!")
 
-bulbasaur.sayHello()
+bulbasaur.sayhello()
 bulbasaur.sayMessage("Heey!")
 
-charmander.sayHello()
+charmander.sayhello()
 charmander.sayMessage("Heey!")
 
-squirtle.sayHello()
+squirtle.sayhello()
 squirtle.sayMessage("Heey!")
